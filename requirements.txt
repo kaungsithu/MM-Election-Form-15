@@ -17,7 +17,7 @@ jinja2==2.11.3
 markupsafe==1.1.1
 mmfont==0.1
 myanmartools==0.1
-numpy==1.20.1
+numpy==1.22.0
 packaging==20.9
 pillow==7.2.0
 protobuf==3.15.6
